@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://github.com/filo31410/filo31410.github.io/'
 languageCode = 'en-us'
 title = 'Le Pont'
 theme = "aether"
